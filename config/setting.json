@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://tooooommy.github.io",
+    "email": "",
+    "platform": "github",
+    "privateKey": "",
+    "repository": "tooooommy.github.io",
+    "token": "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",
+    "username": "tooooommy"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "d57eec2603c0378e68c5",
+      "clientSecret": "42ecbf2c65dea7d19f1599aae6a744527aeb5fe0",
+      "owner": "Tooooommy",
+      "repository": "Tooooommy.github.io"
+    },
+    "showComment": true
+  }
+}
